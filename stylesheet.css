@@ -1,0 +1,68 @@
+*{
+	font-family: Georgia, Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;
+}
+body {
+	width:960px;
+	margin: 0 auto;
+	border: groove;
+	background-color: lavender;
+}
+nav {
+	background-color: mistyrose;
+	padding: 10px;
+	margin: 10px;
+} 
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: mistyrose;
+	padding:  10px;
+	margin: 10px;
+}
+
+article {
+	background-color: mistyrose;
+	padding:  10px;
+	margin: 10px;
+	width:  280px; 
+	float: left;
+}
+
+.mart {
+	background-color: mistyrose; 
+}
+
+.soup {
+	padding:  20px;
+	margin: 40px;
+	width:  350px; 
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+footer {
+	background-color: mistyrose;
+	padding:  10px;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
